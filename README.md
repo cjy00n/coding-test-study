@@ -7,8 +7,8 @@
 
 ### 목차
 
-0. <a href="" >코딩테스트 준비하기</a>
-1. 자료구조 (Data Structure)
+0. <a href="https://github.com/cjy00n/coding-test-study/tree/main/Chap00-Intro" >코딩테스트 준비하기</a>
+1. <a href="https://github.com/cjy00n/coding-test-study/tree/main/Chap01-Data-Structure">자료구조 (Data Structure)</a>
 2. 정렬 (Sorting)
 3. 탐색
 4. 탐욕 알고리즘(Greedy Algorithm)
