@@ -9,14 +9,14 @@
 
 0. <a href="https://github.com/cjy00n/coding-test-study/tree/main/Chap00-Intro" >코딩테스트 준비하기</a>
 1. <a href="https://github.com/cjy00n/coding-test-study/tree/main/Chap01-Data-Structure">자료구조 (Data Structure)</a>
-2. 정렬 (Sorting)
-3. 탐색
-4. 탐욕 알고리즘(Greedy Algorithm)
-5. 정수론
-6. 그래프 (Graph)
-7. 트리(Tree)
-8. 조합 (Combination)
-9. 동적 계획법(Dynamic Programming)
+2. [정렬 (Sorting)]("https://github.com/cjy00n/coding-test-study/tree/main/Chap02-Sorting")
+3. [탐색]("https://github.com/cjy00n/coding-test-study/tree/main/Chap03-Search")
+4. [탐욕 알고리즘(Greedy Algorithm)]("https://github.com/cjy00n/coding-test-study/tree/main/Chap04-Greedy-Algorithm")
+5. [정수론]("https://github.com/cjy00n/coding-test-study/tree/main/Chap05-Number-Theory")
+6. [그래프 (Graph)]("https://github.com/cjy00n/coding-test-study/tree/main/Chap06-Graph")
+7. [트리(Tree)]("https://github.com/cjy00n/coding-test-study/tree/main/Chap07-Tree")
+8. [조합 (Combination)]("https://github.com/cjy00n/coding-test-study/tree/main/Chap08-Combination")
+9. [동적 계획법(Dynamic Programming)]("https://github.com/cjy00n/coding-test-study/tree/main/Chap09-Dynamic-Programming")
 
 ### 커밋컨벤션
 
