@@ -2,8 +2,12 @@
 
 코딩테스트 준비 스터디
 
-강의 <a href="https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%B4%EC%8D%AC/dashboard">**[하루코딩 - Do it! 알고리즘 코딩테스트 with Python]**
-</a> 를 바탕으로 개념 정리 및 기업 코딩테스트 대비 문제 풀이를 합니다.
+강의
+
+- <a href="https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%B4%EC%8D%AC/dashboard">**[하루코딩 - Do it! 알고리즘 코딩테스트 with Python]**</a>
+- <a href="https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%B0%94/dashboard">**[하루코딩 - Do it! 알고리즘 코딩테스트 with JAVA]**</a>
+
+를 바탕으로 개념 정리 및 기업 코딩테스트 대비 문제 풀이를 합니다.
 
 ### 목차
 
