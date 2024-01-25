@@ -5,6 +5,8 @@
 _부분적인 최적해가 전체적인 최적해가 되는 마법!
 언제나 통하지는 않지만, 이런 방법이 통하는 문제들을 만나보세요._
 
+https://school.programmers.co.kr/learn/courses/30/parts/12244
+
 1.  체육복 ( Level 1, 42862 )
 2.  조이스틱 ( Level 2, 42860 )
 3.  큰 수 만들기 ( Level 2, 42883 )

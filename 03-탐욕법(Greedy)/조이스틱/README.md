@@ -1,5 +1,7 @@
 # 조이스틱
 
+https://school.programmers.co.kr/learn/courses/30/lessons/42860
+
 ### **문제 설명**
 
 조이스틱으로 알파벳 이름을 완성하세요. 맨 처음엔 A로만 이루어져 있습니다.
