@@ -1,1 +1,6 @@
-# 여기에 문제 코드 올리기 - 승현
+def solution(s):
+    m = []
+    for i in s:
+        if m[-1:] == [i]: continue
+        m.append(i)
+    return m
