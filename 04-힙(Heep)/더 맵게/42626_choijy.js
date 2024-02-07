@@ -100,7 +100,7 @@ function mySolution(scoville, K) {
   let count = 0;
 
   while (true) {
-    scoville = heapSort(scoville);
+    scoville = scoville.sort((a, b) => a - b);
     if (scoville[0] >= K) break;
 
     if (scoville.length < 2) {
