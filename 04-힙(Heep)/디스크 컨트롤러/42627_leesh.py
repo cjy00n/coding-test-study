@@ -11,4 +11,4 @@ def solution(jobs):
                 tesk += t - i[0] +1
                 break
         t+=1
-    return tesk//length 
+    return tesk//length
